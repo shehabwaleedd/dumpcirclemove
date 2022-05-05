@@ -1,0 +1,7 @@
+.circle {
+    height: 40vh;
+    width: 40vh;
+    background-color: #82a3d3;
+    border-radius: 50%;
+    transition: 0.2s ease;
+}
